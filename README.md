@@ -10,6 +10,9 @@ Example code from my discord bot workshop
 3. create `config.json` in root, add `token` for your bot account
 4. start the bot for development (requires [nodemon](https://www.npmjs.com/package/nodemon))
     ```bash
+    npm install -g nodemon
+    ```
+    ```bash
     npm run dev
     ```
 
