@@ -34,7 +34,7 @@ client.on("messageCreate", message => {
 
 // listening for slash commands
 client.on("interactionCreate", interaction => {
-    if (!interaction.isCommand) return;
+    if (!interaction.isCommand()) return;
 
     console.log(interaction.commandName);
 
