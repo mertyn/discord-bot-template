@@ -1,5 +1,5 @@
-# discord-bot-workshop
-Example code from my discord bot workshop
+# discord-bot-template
+Basic code for making a discord bot with slash commands
 
 ## how to run
 1. clone the repository
